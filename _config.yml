@@ -9,7 +9,7 @@
 title: Jason Tang
 email: 1999jasontang@gmail.com
 description: My home page
-baseurl: "site" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  MildlySpicy
 linkedin_username: jason-tang-455091160
