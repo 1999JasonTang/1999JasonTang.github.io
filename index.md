@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+---
+layout: home
+title: "Overview"
+---
+<img style="float: right; border-radius: 50%; padding: 10px" width="270" height="401" src="/assets/me.jpg">
+# Hello there,
+My name is Jason Tang, a first year Computer Science student at the University of Toronto - St. George Campus. 
 
-You can use the [editor on GitHub](https://github.com/1999JasonTang/1999JasonTang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# What I do
+Aside from schoolwork and studying, I spend a lot of time learning programming languages and skills through side projects, such as this website. To see more of my projects, here's a link to my <a href="https://www.github.com/MildlySpicy" style="color:#00B0FF" >Github</a>.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Additionally, I also work part time as a private tutor to help somewhat alleviate the immense student debt I have. If you're curious here's the company's <a href="https://www.goodstudytutoring.com" style="color:#00B0FF" >site</a>.
 
-### Markdown
+For other things I do in my spare time, check <a href="/hobbies" style="color:#00B0FF" >this</a> out. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1999JasonTang/1999JasonTang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!-- Make hobbies: books I read, games I play?, achievements, link to goodstudy -->
