@@ -11,7 +11,7 @@ All of the site's code can be found on [my github repository](https://www.github
 <ul>
 {% for fact in site.data.why %}
   <li>
-    {{ member.name }}
+    {{ fact.name }}
   </li>
 {% endfor %}
 </ul>
