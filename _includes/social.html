@@ -9,7 +9,7 @@
     </li> -->
   <li>
     <img src=" /assets/email.svg " height="16" width="16" style="position: relative; bottom:3px">
-    <a href="mailto:{{ site.email }}" style="position: relative; left:5px">
+    <a href="mailto:{{ site.email }}" style="position: relative; left:5px" target="_blank">
       <span class="username"  style="color:#00B0FF">Email</span>
     </a>
   </li>
@@ -19,7 +19,7 @@
 
   {%- if site.github_username -%}
   <li>
-    <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}">
+    <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}" target="_blank">
       <svg class="svg-icon">
         <use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use>
       </svg> 
@@ -30,7 +30,7 @@
   
   {%- if site.linkedin_username -%}
   <li>
-    <a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}">
+    <a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}" target="_blank">
       <svg class="svg-icon">
         <use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use>
       </svg> 

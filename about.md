@@ -6,4 +6,4 @@ permalink: /about/
 
 This website was created using Jekyll and is hosted on github pages. 
 
-All of the site's code can be found on [my github repository](https://www.github.com/1999jasontang).
+All of the site's code can be found on <a href="https://www.github.com/1999jasontang" target="_blank">my secondary github</a>.
