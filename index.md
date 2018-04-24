@@ -13,5 +13,9 @@ Additionally, I also work part time as a private tutor to help somewhat alleviat
 
 For other things I do in my spare time, check <a href="/hobbies" style="color:#00B0FF" target="_blank">this page</a> out. 
 
+# My Professional Side
+I am currently looking for a summertime job to gain experience from and to assist in paying for my tuition. 
+
+Here is my <a href="/downloads/Resume.pdf" target="_blank">Resume</a>.
 <!-- Make hobbies: books/manga, games(video and board), achievements, anime, movies, music, magic, cryptography?, -->
 <!-- resume, references -->
