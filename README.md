@@ -8,6 +8,8 @@ Github has a <a href="https://guides.github.com/features/pages/" target="_blank"
 
 Everything else was just coded and modified using basic HTML and CSS.
 
+
+
 Thanks for reading,
 
 Jason Tang (MildlySpicy)
@@ -15,13 +17,22 @@ Jason Tang (MildlySpicy)
 
 
 ░▄▀▄▀▀▀▀▄▀▄░░░░░░░░░
+
 ░█░░░░░░░░▀▄░░░░░░▄░
+
 █░░▀░░▀░░░░░▀▄▄░░█░█
+
 █░▄░█▀░▄░░░░░░░▀▀░░█
+
 █░░▀▀▀▀░░░░░░░░░░░░█
+
 █░░░░░░░░░░░░░░░░░░█
+
 █░░░░░░░░░░░░░░░░░░█
+
 ░█░░▄▄░░▄▄▄▄░░▄▄░░█░
+
 ░█░▄▀█░▄▀░░█░▄▀█░▄▀░
+
 ░░▀░░░▀░░░░░▀░░░▀░░░
 
