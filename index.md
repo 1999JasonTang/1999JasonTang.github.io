@@ -14,8 +14,8 @@ I also work part time as a private tutor to help somewhat alleviate the immense 
 <!-- For other things I do in my spare time, check <a href="/hobbies" style="color:#00B0FF" target="_blank">this page</a> out.  -->
 
 # My Professional Side
-I am currently looking for a summer time job to gain experience from and to assist in paying for my tuition. 
-
+<!-- I am currently looking for a summer time job to gain experience from and to assist in paying for my tuition. 
+ -->
 In case you are interested, here is my current:
 - <a href="/downloads/Resume.pdf" style="color:#00B0FF" target="_blank">Resume</a>
 - <a href="/downloads/University.pdf" style="color:#00B0FF" target="_blank">University Transcript (Unofficial)</a>
