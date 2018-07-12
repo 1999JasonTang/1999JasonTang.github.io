@@ -4,7 +4,7 @@ title: "Overview"
 ---
 <img style="float: right; border-radius: 50%; padding: 10px" width="270" height="400" src="/assets/me.jpg">
 # Hello there,
-My name is Jason Tang, I am a first year Computer Science student at the University of Toronto - St. George Campus. 
+My name is Jason Tang, I am a second year Computer Science student at the University of Toronto - St. George Campus. 
 
 # What I do
 Aside from academia, I take pleasure in learning programming languages through side projects, such as this website. To see more of my projects, check out my <a href="https://www.github.com/MildlySpicy" style="color:#00B0FF" target="_blank">Github</a>.
