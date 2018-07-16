@@ -9,10 +9,7 @@ My name is Jason Tang, I am a second year Computer Science student at the Univer
 You are probably looking for my contact information, which you can find down below. 
 
 This site is still in construction and future updates will bring more content.
-<!-- # What I do
-Aside from academia, I take pleasure in learning programming languages through side projects, such as this website. To see more of my projects, check out my <a href="https://www.github.com/MildlySpicy" style="color:#00B0FF" target="_blank">Github</a>.
 
-I also work part time as a private tutor to help somewhat alleviate the immense student debt I have. If you're curious here's the company's <a href="https://www.goodstudytutoring.com" style="color:#00B0FF" target="_blank">site</a>. -->
 
 <!-- For other things I do in my spare time, check <a href="/hobbies" style="color:#00B0FF" target="_blank">this page</a> out.  -->
 
