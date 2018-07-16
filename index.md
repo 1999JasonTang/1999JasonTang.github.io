@@ -4,7 +4,7 @@ title: "Overview"
 ---
 <img style="float: right; border-radius: 50%; padding: 10px" width="270" height="400" src="/assets/me.jpg">
 # Hello there,
-My name is Jason Tang, I am a second year Computer Science student at the University of Toronto - St. George Campus. 
+My name is Jason Tang, I am a second year Computer Science Specialist at the University of Toronto - St. George Campus. 
 
 You are probably looking for my contact information, which you can find down below. 
 
