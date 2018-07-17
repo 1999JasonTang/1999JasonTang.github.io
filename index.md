@@ -2,13 +2,11 @@
 layout: home
 title: "Overview"
 ---
-<img style="float: right; border-radius: 50%; padding: 10px" width="270" height="400" src="/assets/me.jpg">
+<img style="float: right; border-radius: 50%; padding: 10px" width="243" height="360" src="/assets/me.jpg">
 # Hello there,
 My name is Jason Tang, I am a second year Computer Science Specialist at the University of Toronto - St. George Campus. 
 
-You are probably looking for my contact information, which you can find down below. 
-
-This site is still in construction and future updates will bring more content.
+This site is still under construction and future updates will bring more content.
 
 
 <!-- For other things I do in my spare time, check <a href="/hobbies" style="color:#00B0FF" target="_blank">this page</a> out.  -->
