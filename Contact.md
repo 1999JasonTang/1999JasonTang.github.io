@@ -1,12 +1,12 @@
 ---
 layout: home
 title: Contact Me
-permalink: /contact
+permalink: /contactme/
 ---
 
 <link rel="stylesheet" href="main.css" />
 
-<form method="post" action="http://formspree.io/1999jasontang@gmail.com">
+<form method="post" action="https://formspree.io/1999jasontang@gmail.com">
     <div class="half">
         <label for="name">Name</label>
         <input type="text" name="name" id="name" />
