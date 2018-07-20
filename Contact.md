@@ -4,7 +4,7 @@ title: Contact Me
 permalink: /contact/
 ---
 
-<link rel="stylesheet" href="main.css" />
+<link rel="stylesheet" href="https://1999jasontang.github.io/main.css" />
 
 <form method="post" action="https://formspree.io/1999jasontang@gmail.com">
     <div class="half">
