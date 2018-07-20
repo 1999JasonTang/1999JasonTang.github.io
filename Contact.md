@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Contact Me
-permalink: /contactme/
+permalink: /contact/
 ---
 
 <link rel="stylesheet" href="main.css" />
