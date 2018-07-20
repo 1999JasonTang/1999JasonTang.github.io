@@ -14,7 +14,7 @@ permalink: /contact
     <br />
     <div class="half">
         <label for="email">Email</label>
-        <input type="text" name="email" id="email" />
+        <input type="email" name="_replyto_" id="email" />
     </div>
     <br />
     <div class="full">
