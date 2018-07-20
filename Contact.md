@@ -14,7 +14,7 @@ permalink: /contact
     <br />
     <div class="half">
         <label for="email">Email</label>
-        <input type="email" name="_replyto_" id="email" />
+        <input type="email" name="_replyto" id="email" />
     </div>
     <br />
     <div class="full">
@@ -22,5 +22,5 @@ permalink: /contact
         <textarea name="message" id="message" rows="5"></textarea>
     </div>
     <br />
-    <input type="submit" name="submit" value="Send Message">
+    <input type="submit" value="Send Message">
 </form>
