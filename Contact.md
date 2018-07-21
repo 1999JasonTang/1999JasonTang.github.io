@@ -3,8 +3,10 @@ layout: home
 title: Contact Me
 permalink: /contact/
 ---
+<link rel="stylesheet" href="https://1999jasontang.github.io/contacts.css" />
+<!-- FOR TESTING PURPOSES -->
+<!-- <link rel="stylesheet" href="http://localhost:4000/contacts.css" /> -->
 
-<link rel="stylesheet" href="https://1999jasontang.github.io/main.css" />
 
 <form method="post" action="https://formspree.io/1999jasontang@gmail.com">
     <div class="half">
