@@ -103,22 +103,10 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-color;
   text-decoration: none;
-
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
-
-  &:hover {
-    color: $text-color;
-  }
 
   .social-media-list &:hover {
     text-decoration: none;
-
-    .username {
-    }
   }
 }
 
@@ -205,15 +193,6 @@ pre {
 /**
  * Icons
  */
-
-.svg-icon {
-    width: 16px;
-    height: 16px;
-    display: inline-block;
-    fill: #{$grey-color};
-    padding-right: 5px;
-    vertical-align: text-top;
-}
 
 .social-media-list {
   li + li {

@@ -8,9 +8,12 @@ title: "Overview"
 My name is Jason Tang. I'm a second year Computer Science Specialist at the University of Toronto - St. George Campus. 
 
 # Coding
-For my personal projects, check out my <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}" target="_blank">Github</a>
+For my personal projects, check out my <a href="https://github.com/{{ site.github_username }}" target="_blank">Github</a>
 
-This site is still under construction and future updates will bring more content.
+
+--------
+
+### This site is still under construction and future updates will bring more content.
 
 
 

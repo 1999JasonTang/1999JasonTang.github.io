@@ -2,14 +2,19 @@
 
 /* THE BUTTON */
 form input[type=submit] {
-    background-color: #eee;
+    background-color: rgba(255,255,255,0.2);
     width: 400px;
     display: block;
+    color: #fff;
+}
+form input[type=submit]:hover {
+    background-color: rgba(255,255,255,0.5);
 }
 
+
 form {
-        margin: 0 0 2em 0;
-    }
+    margin: 0 0 2em 0;
+}       
 
 form .half {
     margin: 0 0 1em 0;
@@ -26,7 +31,7 @@ form .full{
 }
 
 form label {
-    color: #000000;
+    color: #fff;
     line-height: 1.5;
     margin: 0 0 0.6em 0;
     display: block;
@@ -49,8 +54,9 @@ form textarea {
 input:focus,
 select:focus,
 textarea:focus {
-    border-color: #000;
-    box-shadow: 0 0 0 1px #000;
+    border-color: #fff;
+    box-shadow: 0 0 0 1px #fff;
+    background-color: rgba(255,255,255,0.5);
 }
 
 
@@ -58,8 +64,10 @@ textarea:focus {
 form input,
 form select {
     height: 2.75em;
+    background-color: rgba(255,255,255,0.2);
 }
 
 form textarea {
     padding: 0.75em 1em;
+    background-color: rgba(255,255,255,0.2);
 }
