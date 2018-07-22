@@ -2,8 +2,6 @@
 layout: home
 title: "Overview"
 ---
-<link rel="stylesheet" type="text/css" href="/assets/home.css">
-
 <img style="float: right; border-radius: 50%; padding: 10px" width="243" height="360" src="/assets/me.jpg">
 
 # Hello there,
