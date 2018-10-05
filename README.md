@@ -8,6 +8,8 @@ The tutorial series I followed to get Jekyll set up can be found <a href="https:
 
 Github has a <a href="https://guides.github.com/features/pages/" target="_blank">great article</a> on how to get set up with github pages.
 
+The contact form was created using formspree, check them out <a href="https://formspree.io" target="_blank">here</a>.
+
 Everything else was just coded and modified using basic HTML and CSS.\
 <br></br>
 Thanks for reading,

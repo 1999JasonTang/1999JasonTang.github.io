@@ -2,7 +2,7 @@
 @import "palette.css";
 
 a:link, a:visited {
-    color: {{ site.color }};
+    color: #29b6f6;
 }
 
 a:hover, a:active {
