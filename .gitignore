@@ -3,7 +3,6 @@ _site
 .jekyll-metadata
 WIP.txt
 templated-visualize
-main.js
 vue.js
 generic.html
 elements.html
