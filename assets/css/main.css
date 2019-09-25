@@ -1,3 +1,10 @@
+:root {
+  --text: #EEE;
+  --text-dark: #AAA;
+  --bg-box: #191919;
+}
+
+
 #background {
   min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
   min-height: 100vh; /* These two lines are counted as one :-)       */
@@ -28,31 +35,31 @@
 }
 
 .link {
-	color: #CCC;
+	color: var(--text-dark);
 }
 
 .link-no-bot {
-	color: #CCC;
+	color: var(--text-dark);
 	margin: 0em;
 }
 
 .link > a {
 	text-decoration: underline;
-	color: #EEE;
+	color: var(--text);
 }
 
 .link > a:hover {
-	color: #EEE;
+	color: var(--text);
 }
 
 .link > .text {
-	color: #EEE;
+	color: var(--text);
 }
 
 #main-box {
-	background-color: #666;
+	background-color: var(--bg-box);
 	padding: 2em 2em;
-	color: #EEE;
+	color: var(--text);
 	margin-right: auto;
 	margin-left: auto;
 	white-space: nowrap;
