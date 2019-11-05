@@ -36,14 +36,14 @@
 		      <h1 id="name">Jason</h1>
 		      <h1 id="name">Tang</h1>
 
-					<div id="colorBox">
+					<!-- <div id="colorBox">
 						<div onclick="changeBackground('white')" 	class="colorSelect" id="white"></div>
 						<div onclick="changeBackground('red')" 		class="colorSelect" id="red"></div>
 						<div onclick="changeBackground('canyon')" 	class="colorSelect" id="canyon"></div>
 						<div onclick="changeBackground('forest')" 	class="colorSelect" id="forest"></div>
 						<div onclick="changeBackground('blue')"		class="colorSelect" id="blue"></div>
 						<div onclick="changeBackground('purple')" 	class="colorSelect" id="purple"></div>
-					</div>
+					</div> -->
 
 		    </div>
 
@@ -59,7 +59,7 @@
 		  </div>
 		</div>
 		
-		<script>
+		<!-- <script>
 			var prefetch = new Image();
 			prefetch.src = 'assets/images/blue.png';
 			prefetch.src = 'assets/images/canyon.png';
@@ -69,20 +69,20 @@
 			prefetch.src = 'assets/images/white.png';
 			prefetch.src = 'assets/images/purple.png';
 			prefetch.src = 'assets/images/red.png';
-		</script>
+		</script> -->
 
-		<script>
+		<!-- <script>
 			// Blue, Canyon, Forest, Gold, Ice, White, Purple, Red
-			// var hex = ['#293a80', '#de6b35', '#589167', '#e3b04b', '#d2fafb', '#f2f6f5', '#745c97', '#ff4d00']
+			var hex = ['#293a80', '#de6b35', '#589167', '#e3b04b', '#d2fafb', '#f2f6f5', '#745c97', '#ff4d00']
 			var backgrounds = ["blue", "canyon", "forest", "gold", "ice", "white", "purple", "red"]
 
 			function changeBackground(color) {
 			  // document.getElementById('main-box').style.background = hex[backgrounds.indexOf(color)];
 			  document.getElementById('background').style.backgroundImage = "url('assets/images/".concat(color).concat(".png')");
-			  document.getElementById('background').style.backgroundSize =  'cover';
+			  document.getElementById('background').style.backgroundSize = 'cover';
 			  document.getElementById('background').style.backgroundPosition = 'center center';
 			}
-		</script>
+		</script> -->
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>

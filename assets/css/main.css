@@ -1,12 +1,14 @@
 :root {
-  --text: #EEE;
-  --text-dark: #AAA;
-  --bg-box-dark: #353535;
+  --text: #D9D9D9;
+  --text-dark: #9D9D9D;
+  /*--bg-box-dark: #353535;*/
+  /*--bg-box-dark: #303030;*/
+  --bg-box-dark: #1a1a1a;
   --bg-box-light: #EEEEEE;
 }
 
 body {
-  background-image: url("../images/white.png");
+  background-image: url("../images/black.png");
   background-size: cover;
   background-position: center center;
 }
