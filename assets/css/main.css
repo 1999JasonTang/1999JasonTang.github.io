@@ -3,12 +3,12 @@
   --text-dark: #9D9D9D;
   /*--bg-box-dark: #353535;*/
   /*--bg-box-dark: #303030;*/
-  --bg-box-dark: #1a1a1a;
+  --bg-box-dark: #1e1e1e;
   --bg-box-light: #EEEEEE;
 }
 
 body {
-  background-image: url("../images/black.png");
+  background-image: url("../images/black_contrast.png");
   background-size: cover;
   background-position: center center;
 }
