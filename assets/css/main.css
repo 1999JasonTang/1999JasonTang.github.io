@@ -11,6 +11,7 @@ body {
   background-image: url("../images/black_contrast.png");
   background-size: cover;
   background-position: center center;
+
 }
 
 #background {
@@ -95,6 +96,7 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	white-space: nowrap;
+	font-size: 1.25rem;
 }
 
 @media (max-width: 770px) { 
