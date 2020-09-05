@@ -1,33 +1,27 @@
 :root {
-  --text: #D9D9D9;
-  --text-dark: #9D9D9D;
-  /*--bg-box-dark: #353535;*/
-  /*--bg-box-dark: #303030;*/
-  --bg-box-dark: #1e1e1e;
-  --bg-box-light: #EEEEEE;
+	--text: #D9D9D9;
+	--text-dark: #9D9D9D;
+	/*--bg-box-dark: #353535;*/
+	/*--bg-box-dark: #303030;*/
+	--bg-box-dark: #1e1e1e;
+	--bg-box-light: #EEEEEE;
 }
 
 body {
-  background-image: url("../images/black_contrast.png");
-  background-size: cover;
-  background-position: center center;
-
+	background-image: url("../images/black_contrast_1080.png");
+	background-size: cover;
+	background-position: center center;
 }
 
 #background {
 	background: none;
 	height: 100%;
 	height: 100vh;
-	font-family: monospace;
-  /*font-family: 'VT323', monospace;*/
-	/*font-family: 'Cutive Mono', monospace;*/
-	/*font-family: 'Space Mono', monospace;*/
-	/*font-family: 'Ubuntu Mono', monospace;*/
-	/*font-family: 'Share Tech Mono', monospace;*/
-  margin-bottom: 0em;
-  display: flex;
-  align-items: center;
-  padding: 2em 1em;
+	font-family: 'Roboto Mono', 'Ubuntu Mono', monospace;
+	margin-bottom: 0em;
+	display: flex;
+	align-items: center;
+	padding: 2em 1em;
 }
 
 .inner-box {
