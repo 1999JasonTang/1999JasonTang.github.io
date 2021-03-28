@@ -1,9 +1,3 @@
-# This is the source code for my site 
+# Repo for my Personal Website
 
-Here is the <a href="https://1999jasontang.github.io" target="_blank">link to the website</a>.
-
-<br></br>
-Thanks for reading,
-
-Jason
-
+<a href="https://1999jasontang.github.io" target="_blank">Here you go.</a>

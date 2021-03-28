@@ -1,14 +1,14 @@
 :root {
 	--text: #D9D9D9;
 	--text-dark: #9D9D9D;
-	/*--bg-box-dark: #353535;*/
-	/*--bg-box-dark: #303030;*/
-	--bg-box-dark: #1e1e1e;
+	/* --bg-box-dark: #353535; */
+	--bg-box-dark: #282828;
 	--bg-box-light: #EEEEEE;
 }
 
 body {
 	background-image: url("../images/black_contrast_1080.png");
+	/* background-image: url("../images/background.png"); */
 	background-size: cover;
 	background-position: center center;
 }
